@@ -1,3 +1,4 @@
+# 2023年3月14日终止该项目的使用。目前改为只读，如需提交代码，请移步到 https://github.com/eliteu/scratch-blocks/
 # scratch-blocks
 #### Scratch Blocks is a library for building creative computing interfaces.
 [![Build Status](https://travis-ci.org/LLK/scratch-blocks.svg?branch=develop)](https://travis-ci.org/LLK/scratch-blocks)
